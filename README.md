@@ -19,3 +19,12 @@ I'm a passionate learner and developer with a strong foundation in Data Science 
 __Scientific Libraries__: NumPy, SciPy, Matplotlib, SymPy, Scikit-learn.
 __Tools__: Jupyter Notebooks, Git, VS Code, Linux.
 __Simulation__: Exploring tools like COMSOL, Silvaco, and building custom simulation scripts.
+
+
+## 📬 Contact
+Feel free to reach out or connect with me:
+
+📧 Email: ovier.obregon@outlook.com
+💼 LinkedIn: linkedin.com/in/
+🐦 Twitter/X: @yourhandle
+🌐 Portfolio/Website: yourwebsite.com
