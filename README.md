@@ -24,7 +24,7 @@ __Simulation__: Exploring tools like COMSOL, Silvaco, and building custom simula
 ## 📬 Contact
 Feel free to reach out or connect with me:
 
-📧 Email: ovier.obregon@outlook.com
-💼 LinkedIn: linkedin.com/in/
-🐦 Twitter/X: @yourhandle
-🌐 Portfolio/Website: yourwebsite.com
+- 📧 Email: ovier.obregon@outlook.com
+- 💼 LinkedIn: linkedin.com/in/
+- 🐦 Twitter/X: @yourhandle
+- 🌐 Portfolio/Website: yourwebsite.com
